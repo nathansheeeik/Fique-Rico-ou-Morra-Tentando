@@ -3,10 +3,17 @@
 
 Blog de educação financeira criado com Django + React
 
+![Vercel Deploy](https://img.shields.io/badge/Frontend-Vercel-000?logo=vercel)
+![Render Deploy](https://img.shields.io/badge/Backend-Render-blue?logo=render)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-online-brightgreen)
+
+---
+
 ## 🌐 Link Online
 
-- Frontend: [https://fique-rico.vercel.app](https://fique-rico.vercel.app)
-- Backend API: [https://fique-rico-backend.onrender.com/api/posts/](https://fique-rico-backend.onrender.com/api/posts/)
+- 🔗 **Frontend**: [https://fique-rico.vercel.app](https://fique-rico.vercel.app)
+- 🔗 **Backend API**: [https://fique-rico-backend.onrender.com/api/posts/](https://fique-rico-backend.onrender.com/api/posts/)
 
 ---
 
@@ -23,7 +30,8 @@ Blog de educação financeira criado com Django + React
 - React 18+
 - React Router DOM
 - Axios
-- CSS Moderno responsivo
+- Vite.js
+- CSS moderno e responsivo
 - Deploy: [Vercel.com](https://vercel.com)
 
 ---
@@ -71,15 +79,34 @@ npm run dev
 
 ## ✨ Funcionalidades
 
-- Listagem de posts financeiros
-- Filtro por categoria
-- Página de detalhe
-- Responsivo (mobile / desktop)
-- Painel admin do Django para gerenciar posts
-- Integração API REST
+- ✅ Listagem de posts financeiros
+- ✅ Filtro por categoria
+- ✅ Página de detalhe
+- ✅ Layout responsivo (mobile / desktop)
+- ✅ Painel admin do Django para gerenciar posts
+- ✅ Integração API REST
+- ✅ Formulário de contato funcional (EmailJS)
+
+---
+
+## 🖼️ Imagens do Projeto
+
+![Home](https://via.placeholder.com/800x400?text=Homepage)
+![Post](https://via.placeholder.com/800x400?text=Detalhe+do+Post)
 
 ---
 
 ## 📬 Contato
 
-Criado por [Seu Nome] — contato: seu@email.com
+Criado por **Nathan Francisco Correa Ferreira**
+
+- 📧 Email: contato@nathanfinanceiro.com
+- 🌐 Site pessoal: [https://nathanfinanceiro.com](https://nathanfinanceiro.com)
+- 💼 LinkedIn: [https://linkedin.com/in/nathanfinanceiro](https://linkedin.com/in/nathanfinanceiro)
+- 📸 Instagram: [@nathanfinanceiro](https://instagram.com/nathanfinanceiro)
+
+---
+
+📄 Licença: MIT
+
+> Projeto com fins educativos. Compartilhe e contribua! 💚
